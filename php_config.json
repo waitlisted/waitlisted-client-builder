@@ -1,0 +1,11 @@
+{
+  "modelPackage": "Waitlisted\\Models",
+  "apiPackage": "Waitlisted\\Api",
+  "invokerPackage": "Waitlisted",
+  "packagePath": "Waitlisted",
+  "composerVendorName": "Waitlisted",
+  "gitUserId": "waitlisted",
+  "composeProjectName": "Waitlisted",
+  "gitRepoId": "waitlisted-php",
+  "artifactVersion": "2.0.0"
+}

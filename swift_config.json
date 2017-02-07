@@ -1,0 +1,9 @@
+{
+  "classPrefix": "WL",
+  "projectName": "Waitlisted",
+  "podName": "Waitlisted",
+  "podVersion": "2.0.0",
+  "podAuthors": "Justin McNally",
+  "gitRepoURL": "https://github.com/waitlisted/waitlisted-objc",
+  "swiftUseApiNamespace": true
+}

@@ -1,0 +1,8 @@
+# Waitlisted.ErrorResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**errors** | **[String]** |  | [optional] 
+
+

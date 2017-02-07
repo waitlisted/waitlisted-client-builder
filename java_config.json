@@ -1,0 +1,11 @@
+{
+  "modelPackage": "co.waitlisted.models",
+  "apiPackage": "co.waitlisted.api",
+  "invokerPackage": "co.waitlisted",
+  "groupId": "waitlisted",
+  "artifactId": "api",
+  "artifactVersion": "2.0.0",
+  "localVariablePrefix": "wl",
+  "dateLibrary": "legacy",
+  "library": "feign"
+}

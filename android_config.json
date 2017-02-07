@@ -1,0 +1,11 @@
+{
+  "modelPackage": "co.waitlisted.models",
+  "apiPackage": "co.waitlisted.api",
+  "invokerPackage": "co.waitlisted",
+  "groupId": "waitlisted",
+  "artifactId": "android-api",
+  "artifactVersion": "2.0.0",
+  "localVariablePrefix": "wl",
+  "dateLibrary": "joda",
+  "library": "okhttp-gson"
+}

@@ -1,0 +1,10 @@
+{
+  "localVariablePrefix": "wl",
+  "invokerPackage": "waitlisted-js",
+  "apiPackage": "waitlisted-js-api",
+  "modelPackage": "waitlisted-js-models",
+  "projectName": "waitlisted",
+  "projectDescription": "Client library for Waitlisted.co",
+  "projectVersion": "2.0.0",
+  "usePromises": true
+}
