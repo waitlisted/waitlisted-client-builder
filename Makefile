@@ -33,21 +33,21 @@ android:
 	$(GENERATE) -l java -c android_config.json -o $(BASE_FOLDER)android
 
 gitpush:
-	cd $(BASE_FOLDER)android
+	cd $(BASE_FOLDER)android && \
 	$(COMMIT_AND_PUSH)
-	cd $(BASE_FOLDER)csharp
+	cd $(BASE_FOLDER)csharp && \
 	$(COMMIT_AND_PUSH)
-	cd $(BASE_FOLDER)php
+	cd $(BASE_FOLDER)php && \
 	$(COMMIT_AND_PUSH)
-	cd $(BASE_FOLDER)python
+	cd $(BASE_FOLDER)python && \
 	$(COMMIT_AND_PUSH)
-	cd $(BASE_FOLDER)objc
+	cd $(BASE_FOLDER)objc && \
 	$(COMMIT_AND_PUSH)
-	cd $(BASE_FOLDER)swift
+	cd $(BASE_FOLDER)swift && \
 	$(COMMIT_AND_PUSH)
-	cd $(BASE_FOLDER)js
+	cd $(BASE_FOLDER)js && \
 	$(COMMIT_AND_PUSH)
-	cd $(BASE_FOLDER)java
+	cd $(BASE_FOLDER)java && \
 	$(COMMIT_AND_PUSH)
-	cd $(BASE_FOLDER)ruby
+	cd $(BASE_FOLDER)ruby && \
 	$(COMMIT_AND_PUSH)
