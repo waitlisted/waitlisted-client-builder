@@ -35,7 +35,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * SiteResponse
  */
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2017-02-06T23:44:12.558-06:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2017-02-08T10:28:24.015-06:00")
 public class SiteResponse   {
   @JsonProperty("id")
   private String id = null;

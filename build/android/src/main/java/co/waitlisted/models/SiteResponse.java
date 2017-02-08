@@ -34,7 +34,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * SiteResponse
  */
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2017-02-06T23:44:23.905-06:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2017-02-08T10:28:34.605-06:00")
 public class SiteResponse   {
   @SerializedName("id")
   private String id = null;
