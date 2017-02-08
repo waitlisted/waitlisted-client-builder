@@ -2,7 +2,7 @@
   "modelPackage": "Waitlisted\\Models",
   "apiPackage": "Waitlisted\\Api",
   "invokerPackage": "Waitlisted",
-  "packagePath": "Waitlisted",
+  "packagePath": "",
   "composerVendorName": "Waitlisted",
   "gitUserId": "waitlisted",
   "composeProjectName": "Waitlisted",
