@@ -1,6 +1,7 @@
 SWAGGER_URL=https://www.waitlisted.co/api/v2/apidocs
 GENERATE=java -jar $(HOME)/bin/swagger-codegen-cli.jar generate -i $(SWAGGER_URL)
 BASE_FOLDER=$(HOME)/projects/waitlisted-clients/waitlisted-
+COMMIT_AND_PUSH=git add --all .; git commit -am "Updated: `date`"; git push origin master
 
 all: ruby java js objective_c swift python php csharp android
 
@@ -30,3 +31,23 @@ csharp:
 
 android:
 	$(GENERATE) -l java -c android_config.json -o $(BASE_FOLDER)android
+
+gitpush:
+	cd $(BASE_FOLDER)android
+	$(COMMIT_AND_PUSH)
+	cd $(BASE_FOLDER)csharp
+	$(COMMIT_AND_PUSH)
+	cd $(BASE_FOLDER)php
+	$(COMMIT_AND_PUSH)
+	cd $(BASE_FOLDER)python
+	$(COMMIT_AND_PUSH)
+	cd $(BASE_FOLDER)objc
+	$(COMMIT_AND_PUSH)
+	cd $(BASE_FOLDER)swift
+	$(COMMIT_AND_PUSH)
+	cd $(BASE_FOLDER)js
+	$(COMMIT_AND_PUSH)
+	cd $(BASE_FOLDER)java
+	$(COMMIT_AND_PUSH)
+	cd $(BASE_FOLDER)ruby
+	$(COMMIT_AND_PUSH)
