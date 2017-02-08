@@ -1,5 +1,7 @@
 {
   "packageName": "co.waitlisted",
   "packageVersion": "2.0.0",
-  "packageGuid": "dd852c99-7a8c-47a0-a9ea-01994016494d"
+  "packageGuid": "dd852c99-7a8c-47a0-a9ea-01994016494d",
+  "gitUserId": "waitlisted",
+  "gitRepoId": "waitlisted-csharp"
 }

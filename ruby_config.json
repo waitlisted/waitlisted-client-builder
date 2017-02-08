@@ -5,5 +5,7 @@
   "gemSummary": "Waitlisted Api 2.0 Wrapper",
   "gemDescription": "Easy add reservations to your waitlist via Ruby.",
   "gemAuthor": "Justin McNally",
-  "gemAuthorEmail": "justin@waitlisted.co"
+  "gemAuthorEmail": "justin@waitlisted.co",
+  "gitUserId": "waitlisted",
+  "gitRepoId": "waitlisted-ruby"
 }

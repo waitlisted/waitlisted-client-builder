@@ -6,5 +6,7 @@
   "projectName": "waitlisted",
   "projectDescription": "Client library for Waitlisted.co",
   "projectVersion": "2.0.0",
-  "usePromises": true
+  "usePromises": true,
+  "gitUserId": "waitlisted",
+  "gitRepoId": "waitlisted-js"
 }

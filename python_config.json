@@ -1,4 +1,6 @@
 {
   "packageName": "waitlisted",
-  "packageVersion": "2.0.0"
+  "packageVersion": "2.0.0",
+  "gitUserId": "waitlisted",
+  "gitRepoId": "waitlisted-python"
 }

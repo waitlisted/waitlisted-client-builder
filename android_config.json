@@ -7,5 +7,7 @@
   "artifactVersion": "2.0.0",
   "localVariablePrefix": "wl",
   "dateLibrary": "joda",
-  "library": "okhttp-gson"
+  "library": "okhttp-gson",
+  "gitUserId": "waitlisted",
+  "gitRepoId": "waitlisted-android"
 }

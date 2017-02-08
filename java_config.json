@@ -7,5 +7,7 @@
   "artifactVersion": "2.0.0",
   "localVariablePrefix": "wl",
   "dateLibrary": "legacy",
-  "library": "feign"
+  "library": "feign",
+  "gitUserId": "waitlisted",
+  "gitRepoId": "waitlisted-java"
 }
